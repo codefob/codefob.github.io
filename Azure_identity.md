@@ -14,9 +14,7 @@ What is IAM Basics?
             - Enterprise Access ( manage security for application and devices)      
             - Collaboration and Development  ( Azure AD B2B, Azure AD B2C)      
             -  Monitoring  ( Audit logs, Security, identity protection, risk management )  
-                ```
-                $ AZ aks list -o table
-                ```     
+                   
     -   Additional Information.     
             - No OUs and GPO's. 
             - SAML, WS_federations, OpenID, OAuth.  
